@@ -8,7 +8,7 @@ I’m passionate about optimizing sales processes, building automation, and turn
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [Sales Funnel Analysis](./sales-funnel-analysis) | Analyzed CRM data to identify drop-offs and improve conversion rate. | Excel, Google Sheets |
+| [Sales Perfromance Analysis](./sales-performance-analysis) | Analyzed CRM data to identify drop-offs and improve conversion rate. | Excel, Google Sheets |
 | [Sales Performance Dashboard](./sales-dashboard) | Built KPI dashboards for pipeline, win rates, and deal velocity. | Power BI / Sheets |
 | [Lead Scoring System](./lead-scoring) | Created a logical lead scoring framework for prioritization. | Google Sheets |
 | [Sales Process Automation](./process-automation) | Automated manual CRM tasks using Zapier & HubSpot workflows. | Zapier, HubSpot |
