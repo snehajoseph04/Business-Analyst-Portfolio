@@ -8,7 +8,7 @@
 1. [GTM process design](01_gtm_strategy.md)
 2. [Funnel metrics](02_data_pipeline_and_crm_structure.md)
 3. [Automation strategy](03_reporting_dashboard.md)
-4. CRM data flow understanding
+4. [CRM data flow understanding](04_automation_workflows.md)
 5. Sales enablement
 
 ---
