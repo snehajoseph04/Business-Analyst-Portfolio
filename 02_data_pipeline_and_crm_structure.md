@@ -5,13 +5,7 @@ Create a clean, connected data ecosystem to ensure accurate reporting and effici
 
 ---
 
-## 2. Data Flow Overview
-**Diagram Placeholder:**
-
-
----
-
-## 3. CRM Setup (HubSpot)
+## 2. CRM Setup (HubSpot)
 | Object | Key Fields | Description |
 |---------|-------------|-------------|
 | Contacts | Name, Email, Lead Source, Lifecycle Stage, Region | Identifies each lead |
@@ -21,7 +15,7 @@ Create a clean, connected data ecosystem to ensure accurate reporting and effici
 
 ---
 
-## 4. Data Hygiene Rules
+## 3. Data Hygiene Rules
 - Standardize lead source values (Website / Demo / Referral / Email Campaign)  
 - No duplicate emails or companies  
 - Every deal must be linked to a company and contact  
@@ -29,7 +23,7 @@ Create a clean, connected data ecosystem to ensure accurate reporting and effici
 
 ---
 
-## 5. Data Enrichment
+## 4. Data Enrichment
 **Tools:** Apollo, Clearbit, manual research  
 **Fields Added:**  
 - LinkedIn URL  
@@ -39,7 +33,7 @@ Create a clean, connected data ecosystem to ensure accurate reporting and effici
 
 ---
 
-## 6. Example Schema
+## 5. Example Schema
 | Field | Type | Source | Notes |
 |--------|------|--------|-------|
 | email | text | Form / Upload | Unique key |
