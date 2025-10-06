@@ -32,13 +32,8 @@ This repository contains all the necessary files to verify the analysis and revi
 
 | File/Folder | Purpose |
 | :--- | :--- |
-| `analysis/Sales_Performance_Pivot.xlsx` | The live Excel workbook containing the original data, pivot tables, calculated fields, and the final dashboard/charts. **(Recommended Download)** |
+| https://docs.google.com/spreadsheets/d/1uD8dMS6FRjQzvNjwod9-zoB4gsnLt6QxsUqJJ12RubQ/edit?usp=sharing | The live Excel workbook containing the original data, pivot tables, calculated fields, and the final dashboard/charts. **(Recommended Download)** |
 | `data/Raw_Sales_Data.csv` | The original, raw sales dataset used for the analysis. |
 | `analysis/Key_Insights_Summary.txt` | A summarized text document detailing the key business observations derived from the data. |
 
 ---
-
-### 💻 How to View the Analysis
-
-1.  **Quick Look:** View the images in the `visuals/` folder for a fast overview of the final dashboard design and key metrics.
-2.  **Deep Dive:** Download the `Sales_Performance_Pivot.xlsx` file and open it in Microsoft Excel. Explore the Pivot Table settings to see how fields were grouped, calculated fields were created, and how slicers were implemented for interactive filtering.
