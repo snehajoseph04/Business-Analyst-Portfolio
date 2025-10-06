@@ -5,7 +5,7 @@
 **Goal**: Create a complete Revenue Operations Playbook that outlines how marketing, sales, and customer success align to drive predictable revenue growth in a SaaS company.
 
 **Skills demonstrated**:
-1. [GTM process design]()
+1. [GTM process design](01_gtm_strategy./readme.md)
 2. [Funnel metrics](https://github.com/snehajoseph04/RevOps-Portfolio/blob/main/02_data_pipeline_and_crm_structure.md)
 3. [Automation strategy](https://github.com/snehajoseph04/RevOps-Portfolio/blob/main/03_reporting_dashboard.md)
 4. [CRM data flow understanding](https://github.com/snehajoseph04/RevOps-Portfolio/blob/main/04_automation_workflows.md)
