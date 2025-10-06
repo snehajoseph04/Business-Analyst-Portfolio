@@ -60,4 +60,3 @@ Establish a unified GTM framework that aligns Sales, Marketing, and Customer Suc
 - Data Enrichment: Clearbit  
 
 ---
-✅ *Next: [Data Pipeline & CRM Structure →](./02_data_pipeline_and_crm_structure.md)*
