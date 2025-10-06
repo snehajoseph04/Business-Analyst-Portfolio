@@ -17,7 +17,7 @@ I’m passionate about optimizing sales processes, building automation, and turn
 ## ⚙️ Tools & Skills
 - CRM Systems: HubSpot, Salesforce 
 - Data Tools: Excel, Google Sheets, Power BI
-- Automation: Zapier, Make, HubSpot workflows
+- Automation: HubSpot workflows
 - Reporting: Dashboarding, Data Cleaning, Funnel Metrics
 - Communication: Sales Enablement, Process Documentation
 
