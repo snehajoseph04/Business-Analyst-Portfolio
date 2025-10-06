@@ -33,7 +33,6 @@ This repository contains all the necessary files to verify the analysis and revi
 | File/Folder | Purpose |
 | :--- | :--- |
 | https://docs.google.com/spreadsheets/d/1uD8dMS6FRjQzvNjwod9-zoB4gsnLt6QxsUqJJ12RubQ/edit?usp=sharing | The live Excel workbook containing the original data, pivot tables, calculated fields, and the final dashboard/charts. **(Recommended Download)** |
-| `data/Raw_Sales_Data.csv` | The original, raw sales dataset used for the analysis. |
-| `analysis/Key_Insights_Summary.txt` | A summarized text document detailing the key business observations derived from the data. |
+| https://docs.google.com/document/d/1-NH9FrPdmFy4pwm9xApD4uNPU4lqip9wvs7MWQKvG4c/edit?usp=sharing | A summarized text document detailing the key business observations derived from the data. |
 
 ---
