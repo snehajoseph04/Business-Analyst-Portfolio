@@ -46,6 +46,5 @@ The dashboard delivers insights across three main pages (e.g., *Executive Summar
 
 | File/Folder | Description |
 | :--- | :--- |
-| `report/Sales_Dashboard.pbix` | The main Power BI Desktop file. **(Requires Power BI Desktop to open)** |
-| `visuals/Dashboard_Preview.png` | \*\*\*\* A high-resolution static screenshot of the final dashboard pages. |
-| `data/Raw_Sales_Data.csv` | The source data file used to build the report. |
+|[Sales performance.pdf](https://github.com/user-attachments/files/22722748/Sales.performance.pdf)| \*\*\*\* A high-resolution static screenshot of the final dashboard pages 
+|[Sales performance data.xlsx](https://github.com/user-attachments/files/22722759/Sales.performance.data.xlsx)| The source data file used to build the report. |
