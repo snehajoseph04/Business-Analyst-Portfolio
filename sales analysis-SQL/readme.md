@@ -23,3 +23,12 @@ FROM deals
 WHERE deal_stage = 'Closed Won'
 GROUP BY month
 ORDER BY month;
+
+### 2. Total Revenue by Month
+```sql
+SELECT r.rep_name,
+COUNT(CASE WHEN d.deal_stage = 'Closed Won' THEN 1 END) * 100.0 / COUNT(*) AS win_rate
+FROM deals d
+JOIN reps r ON d.rep_id = r.rep_id
+GROUP BY r.rep_name
+ORDER BY win_rate DESC;
