@@ -23,8 +23,10 @@ FROM deals
 WHERE deal_stage = 'Closed Won'
 GROUP BY month
 ORDER BY month;
+```
 
 ### 2. Win Rate per Rep
+
 ```sql
 SELECT r.rep_name,
        COUNT(CASE WHEN d.deal_stage = 'Closed Won' THEN 1 END) * 100.0 / COUNT(*) AS win_rate
